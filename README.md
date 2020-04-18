@@ -1,2 +1,2 @@
 # find-route
-It returns the final path traversed from Source to Destination.
+The project returns the final path traversed from Source to Destination.

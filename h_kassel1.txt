@@ -1,0 +1,23 @@
+Luebeck 0
+Hamburg 00
+Hannover 00
+Berlin 0
+Bremen 00
+Dortmund 00
+Magdeburg 00
+Kassel 0
+Dresden 00
+Leipzig 0
+Duesseldorf 00
+Frankfurt 00
+Nuremberg 00
+Saarbruecken 00
+Karlsruhe 00
+Stuttgart 00
+Munich 00
+Manchester 00
+Birmingham 00
+Bristol 00
+London 00
+END OF INPUT
+
